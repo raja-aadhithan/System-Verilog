@@ -4,7 +4,7 @@ module arrays();
   
   initial begin
     array_1 = '{2,4,6,8,10,12,14,16,18,20};
-	array_2 = '{1,3,5,7,9,11,13,15,17,29};
+	  array_2 = '{1,3,5,7,9,11,13,15,17,29};
     
     $display("array_1 is ",array_1);
     $display("array_1 is ",array_2);
